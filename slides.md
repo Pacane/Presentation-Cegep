@@ -42,6 +42,22 @@ Historique:
 
 ---
 
+-> # Outils <-
+
+* Linux
+* IntelliJ
+* Vim
+* Slack
+* TeamCity / Jenkins / Travis / Drone
+* Phabricator
+* Git / GitHub / GitLab
+* Google Calendar
+* Google Hangout
+* Mumble
+* StackOverflow
+
+---
+
 -> # Professionnalisme <-
 
 * Se préoccuper de la qualité de son travail
@@ -58,6 +74,22 @@ Historique:
 * Les tests
 * Apprendre un langage vs Apprendre à programmer
 * Autonomie
+
+---
+
+-> # Agile & XP <-
+
+* Scrum
+* XP
+* TDD
+* Refactoring
+
+---
+
+-> # Lectures & apprentissages conseillées
+
+* Clean Code
+* The Clean Coder
 
 ---
 
