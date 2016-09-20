@@ -68,7 +68,7 @@ Historique:
 
 ---
 
--> Université ou pas? <-
+-> # Université ou pas? <-
 
 * Meilleure décision que j'ai prise
 * Très formateur si implication
@@ -91,5 +91,3 @@ Historique:
 Merci!
 
 ---
-
-
